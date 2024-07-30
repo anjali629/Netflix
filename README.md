@@ -7,8 +7,8 @@ Header
 Main Movie
 Tailer in Background
 Title & Description
-MovieSuggestions
-MovieLists * N
+MovieSuggestions:
+    MovieLists * N
 NetflixGPT
 Search Bar
 Movie Suggestions
