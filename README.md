@@ -1,18 +1,3 @@
-## Features: 
-Login/Sign Up
-Sign In /Sign up Form
-redirect to Browse Page
-Browse (after authentication)
-Header
-Main Movie
-Tailer in Background
-Title & Description
-MovieSuggestions:
-    MovieLists * N
-NetflixGPT
-Search Bar
-Movie Suggestions
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,6 +62,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+
+
+## Features: 
+Login/Sign Up
+Sign In /Sign up Form
+redirect to Browse Page
+Browse (after authentication)
+Header
+Main Movie
+Tailer in Background
+Title & Description
+MovieSuggestions:
+    MovieLists * N
+NetflixGPT
+Search Bar
+Movie Suggestions
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
